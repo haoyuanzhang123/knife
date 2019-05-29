@@ -1,6 +1,6 @@
 rm(list=ls())
 
-
+tesett
 
 mhdata$otherEthnic = 1- mhdata$whiteEthnic
 
